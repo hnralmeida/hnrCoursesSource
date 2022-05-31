@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  A series of unrelated Python files, just for testing and/or made during Digital Innovation One Courses and Cod3r course. <br>
+  A series of unrelated Python files, just for testing and/or made during courses and youtube videos <br>
   Currently Informational Systems Bachelor Student at IFES - Campus Colatina.
 </p>
 
